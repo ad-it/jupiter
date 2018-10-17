@@ -1,3 +1,0 @@
-# jupiter
-
-First planet - done
